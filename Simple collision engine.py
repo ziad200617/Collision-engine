@@ -1,7 +1,3 @@
-
-__version__ = "$Id:$"
-__docformat__ = "reStructuredText"
-
  
 import random
 from typing import List
